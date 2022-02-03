@@ -81,9 +81,7 @@ function Main() {
             <Interactor />
             <Events />
           </Grid.Row>
-          <Grid.Row>
-            <TemplateModule />
-          </Grid.Row>
+          <Grid.Row>{/* <TemplateModule /> */}</Grid.Row>
         </Grid>
       </Container>
       <DeveloperConsole />
